@@ -1,0 +1,15 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "2026-08-24T00:39:00Z",
+  "description": "FY26 step one closed 2026-08-17. When the next NOFO appears at cops.usdoj.gov/cpdmicrogrants, update the funding page with the new dates and terms, dated.",
+  "id": "pdp-j15.3",
+  "labels": [],
+  "parent": "pdp-j15",
+  "priority": 2,
+  "status": "open",
+  "title": "Grant-cycle watch: update /funding/ when the next COPS CPD Microgrants cycle posts",
+  "type": "task",
+  "updated_at": "2026-08-24T00:39:00Z"
+}
