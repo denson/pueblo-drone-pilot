@@ -1,0 +1,15 @@
+{
+  "assignee": "",
+  "blocked_by": [],
+  "blocks": [],
+  "created": "2026-08-24T00:39:00Z",
+  "description": "When the owner reviews the site: fold in corrections, decide whether the facility is named, update /first-site/ and the mirrors, and re-check the denylist if naming is approved.",
+  "id": "pdp-j15.1",
+  "labels": [],
+  "parent": "pdp-j15",
+  "priority": 2,
+  "status": "open",
+  "title": "Owner conversation: update first-site page and naming decision after the facility owner reviews",
+  "type": "task",
+  "updated_at": "2026-08-24T00:39:00Z"
+}
