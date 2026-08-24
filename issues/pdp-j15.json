@@ -6,9 +6,15 @@
   "description": "Site: https://pueblo-drone-pilot.stoagen.com/ (repo denson/pueblo-drone-pilot, Pages workflow build). Canonical source: site-src/report.md (research report 2026-08-23), published at /report.md. Design export: C:\\claude_projects\\pueblo-drone-design\\. RULES (CLAUDE.md): everything is a proposal, banner + four-state claim chips validator-enforced; host business and owner unnamed until the owner agrees (denylist backstop); never claim autonomous launch / private flight control / facial recognition / weapons / guaranteed plate reading; FY26 COPS closed, target is next cycle; agents never touch Cloudflare. PENDING: PRINCIPAL adds Cloudflare CNAME pueblo-drone-pilot -\u003e denson.github.io (DNS only); then HTTPS enforce + GSC property; owner conversation; product-image rights for aircraft cards.",
   "id": "pdp-j15",
   "labels": [],
+  "comments": [
+    {
+      "text": "2026-08-24: site revised around the scaled-down low-altitude plan (report-vlos.md, sanitized, published). VLOS Part 107 first; three-stage model; six phases; county layer + BVLOS deferred. Denylist extended (plus code, coordinates, airport identifier, property-record hosts). CI deploying.",
+      "timestamp": "2026-08-24T01:31:02Z"
+    }
+  ],
   "priority": 1,
   "status": "open",
   "title": "[START HERE] pueblo-drone-pilot: public options site for the proposed county drone pilot",
   "type": "epic",
-  "updated_at": "2026-08-24T00:39:00Z"
+  "updated_at": "2026-08-24T01:31:02Z"
 }
