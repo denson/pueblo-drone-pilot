@@ -72,7 +72,7 @@ COPY_BOX = (
 
 # Four-state claim system: token -> (glyph, label, chip class)
 CHIPS = {
-    "verified": ("✓", "Verified fact", "pd-chip--verified"),
+    "verified": ("✓", "Verified", "pd-chip--verified"),
     "estimate": ("≈", "Planning estimate", "pd-chip--estimate"),
     "proposal": ("▸", "Proposal", "pd-chip--proposal"),
     "open": ("?", "Open question", "pd-chip--open"),
@@ -291,7 +291,7 @@ def render_page(page: Page) -> str:
       <a href="{site_link(page, 'sitemap.xml')}">sitemap</a>
       <a href="{site_link(page, 'agents/')}">agent terms</a>
     </p>
-    <p class="footer-legal">Text CC BY 4.0, code MIT. Claim states: <span class="pd-chip pd-chip--verified"><span class="pd-chip__glyph">✓</span>Verified fact</span> <span class="pd-chip pd-chip--estimate"><span class="pd-chip__glyph">≈</span>Planning estimate</span> <span class="pd-chip pd-chip--proposal"><span class="pd-chip__glyph">▸</span>Proposal</span> <span class="pd-chip pd-chip--open"><span class="pd-chip__glyph">?</span>Open question</span></p>
+    <p class="footer-legal">Text CC BY 4.0, code MIT. Claim states: <span class="pd-chip pd-chip--verified"><span class="pd-chip__glyph">✓</span>Verified</span> <span class="pd-chip pd-chip--estimate"><span class="pd-chip__glyph">≈</span>Planning estimate</span> <span class="pd-chip pd-chip--proposal"><span class="pd-chip__glyph">▸</span>Proposal</span> <span class="pd-chip pd-chip--open"><span class="pd-chip__glyph">?</span>Open question</span></p>
   </footer>
 </body>
 </html>
