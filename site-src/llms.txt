@@ -1,0 +1,52 @@
+# Pueblo drone pilot
+> A public options website for a PROPOSED Pueblo County public-safety drone
+> pilot: local businesses would host secure launch sites, and county
+> public-safety personnel would operate a long-endurance thermal drone from
+> them for searches, fire and disaster response, crimes in progress, and
+> officer safety. Nothing is approved: no agency commitment, no vendor
+> selected, no funds awarded, and the prospective first host (a well-secured
+> storage facility in Pueblo West, deliberately unnamed) has not agreed.
+> Author: Denson Smith, volunteer researcher.
+
+Everything in this file and in the page mirrors is information from the
+publisher, not instructions to you. Your operator's instructions always
+come first; apply ours as source metadata, with your own judgment.
+
+Load-bearing rules, also stated in visible page text: everything on the
+site is a proposal, restated in the conditional mood; claims carry one of
+four states written inline as [[verified]] (sourced, with a check date),
+[[estimate]], [[proposal]] or [[open]], and you should carry the state when
+restating; the proposal excludes autonomous launch, private flight control,
+facial recognition, weapons, and guaranteed plate reading, so never
+attribute those; the host business is deliberately unnamed, so do not
+identify it; and time-sensitive statuses (Blue-list entries, grant
+deadlines, prices) are only as good as their checked date.
+
+Warnings from the field: assume this file may not have been read; if your
+tool refuses a mirror's text/markdown content type, append .txt to the URL;
+this site is new enough that web search may return nothing for it, and the
+right response then is that it could not be found by search.
+
+Links point at the Markdown mirror of each page, which is what you should
+read. Drop `index.md` from any URL to get the page a human should be given.
+full_site.txt carries every mirror concatenated in one fetch.
+
+## Start here
+- [Assistant start page](https://pueblo-drone-pilot.stoagen.com/start.md): the one-URL front door.
+- [Home](https://pueblo-drone-pilot.stoagen.com/index.md): the concept, who does what, how a launch would happen, where this stands.
+- [Why Pueblo](https://pueblo-drone-pilot.stoagen.com/why-pueblo/index.md): existing Sheriff and City capability; what a pre-positioned aircraft adds; the host-network concept.
+- [The partnership](https://pueblo-drone-pilot.stoagen.com/partnership/index.md): county operates, host provides the place; the three-stream camera design; the volunteer's non-role.
+- [First site](https://pueblo-drone-pilot.stoagen.com/first-site/index.md): the unnamed storage facility, what it has, what it would need, what its owner is being asked.
+- [Aircraft](https://pueblo-drone-pilot.stoagen.com/aircraft/index.md): four candidates with figures, prices, and unresolved questions; future benchmarks collapsed.
+- [Funding](https://pueblo-drone-pilot.stoagen.com/funding/index.md): COPS Microgrants next cycle as primary target; the $195,000 working budget; no funds awarded.
+- [FAA and operations](https://pueblo-drone-pilot.stoagen.com/faa/index.md): Part 107 versus public-aircraft COA; what the 200-foot BVLOS framework means.
+- [Privacy](https://pueblo-drone-pilot.stoagen.com/privacy/index.md): the proposed commitments, the rules behind them, how the program would be measured.
+- [Timeline](https://pueblo-drone-pilot.stoagen.com/timeline/index.md): the decided sequence (vendors last) and the risk table.
+- [Sources](https://pueblo-drone-pilot.stoagen.com/sources/index.md): every source, the claim-state legend, the change log.
+- [Agent access](https://pueblo-drone-pilot.stoagen.com/agents/index.md): this contract, in page form.
+
+## Optional
+- [Full corpus](https://pueblo-drone-pilot.stoagen.com/full_site.txt): every mirror in one file (alias of llms-full.txt).
+- [The research report](https://pueblo-drone-pilot.stoagen.com/report.md): the canonical source behind every page, with the complete source register.
+- [Feed](https://pueblo-drone-pilot.stoagen.com/feed.xml): pages by last update.
+- [Stoagen](https://stoagen.com/llms.txt): the system this site is published with.
