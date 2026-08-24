@@ -22,6 +22,10 @@ A public proposal is more credible, not less, when it states its limits before a
 - Geofencing, mission maps, or policy restrictions protect locations where heightened privacy is expected, subject to lawful emergency needs and warrants.
 - A complaint and correction process exists.
 
+## The first pilot's operating rules
+
+The scaled-down pilot adds a concrete twelve-rule set, listed in full on the [FAA page](../faa/): designated pilot for every flight, sight maintained throughout, geofenced routes, minimum necessary altitude, yield to all crewed aircraft, no intentional overflight of uninvolved people, night requirements, full preflight, tested failure behaviors, no pursuit, every flight logged, and no remote launch without FAA authority. [[proposal]]
+
 ## The rules behind the commitments
 
 Current federal UAS grant rules explicitly require adequate privacy, civil-liberties, and cybersecurity policies as a condition of funding. [[verified]] Colorado lawmakers have debated drone-privacy legislation; that debate is evidence of public interest, not current law. [[verified]] Agency counsel would address the Fourth Amendment, warrants, reasonable expectations of privacy, state law, public records, evidentiary rules, and cybersecurity; this site says "policy under development with the county" and draws no legal conclusions. [[proposal]]

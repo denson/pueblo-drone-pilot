@@ -6,6 +6,8 @@ eyebrow: The proposed model
 ---
 # How the partnership would work
 
+Under the revised plan the first pilot can begin as a private-facility Part 107 operation: who owns the first aircraft, who insures it, and how responders get access are open questions to settle with the owner and the county, not settled facts. [[open]] The division below describes the fuller county-operated model that the later phases would grow into. [[proposal]]
+
 ## The public agency
 
 The Sheriff's Office or another eligible Pueblo County public-safety entity would: [[proposal]]
@@ -44,6 +46,15 @@ The technical design would separate three streams: [[proposal]]
 3. **Host/customer view**: read-only, delayed or reduced-quality if necessary, with no telemetry, no aircraft command, and no access to unrelated missions.
 
 For continuous facility surveillance while the drone is not flying, the host would keep using ordinary fixed cameras, which cover multiple angles at once without consuming flight hours. [[proposal]]
+
+## Who could fly it
+
+Four modes, in the order they would arrive: [[proposal]]
+
+1. **The owner or a trained facility employee**, holding their own Part 107 certificate, flies routine facility patrols in visual line of sight. The simplest case, possible today.
+2. **A trainee under direct supervision** of a certificated pilot who can take control immediately; useful for training, not the long-term model. Regular independent pilots simply earn the certificate.
+3. **A certified public-safety responder on scene** assumes the pilot role and flies the pre-positioned aircraft, subject to agency policy, owner authorization, insurance, and access arrangements. The responder does not need to have carried the drone; it is already charged and ready at a known site.
+4. **A remote county pilot with nobody on site**: the future mode, requiring BVLOS authority; see [FAA and operations](../faa/).
 
 ## The volunteer researcher
 

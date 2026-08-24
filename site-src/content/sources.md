@@ -6,9 +6,14 @@ eyebrow: Every claim, linked and dated
 ---
 # Sources and downloads
 
-## The research report
+## The research reports
 
-The full research report behind this site, dated August 23, 2026, is published at [report.md](../report.md) (also served as [report.md.txt](../report.md.txt)). It carries every source link beside its claims, the aircraft appendix, the grant analysis, and a machine-readable summary. The prospective host business and its owner are unnamed in the published copy by design. [[verified]]
+Two reports, both dated August 23, 2026, both published with the host business unnamed by design:
+
+- **[report-vlos.md](../report-vlos.md)**, the current plan: a low-altitude, geofenced, Part 107 visual-line-of-sight pilot that can start before any waiver, with the three-stage operating model and the six phases. [[verified]]
+- **[report.md](../report.md)**, the original concept study: the long-endurance county aircraft, the full grant analysis, and the aircraft appendix; now the reference for the later remote-launch phase. [[verified]]
+
+Where they differ, the low-altitude report governs the current plan.
 
 ## How to read the claim states
 
@@ -19,13 +24,15 @@ Everything on this site carries one of four states, shown as a labeled chip: [[v
 - Grants: <a href="https://cops.usdoj.gov/cpdmicrogrants">COPS CPD Microgrants</a> · <a href="https://bja.ojp.gov/funding/uas">BJA UAS requirements</a> · <a href="https://bja.ojp.gov/program/jag/archives">Byrne JAG archives</a> · <a href="https://dhsem.colorado.gov/grants/grant-programs/homeland-security-grant-program">Colorado HSGP</a> · <a href="https://www.fema.gov/grants/preparedness/emergency-management-performance">FEMA EMPG</a>
 - Procurement: <a href="https://bluelist.dcma.mil/">DCMA Blue List portal</a> · <a href="https://www.diu.mil/blue-uas-portal">DIU Blue UAS portal</a>
 - FAA: <a href="https://www.faa.gov/uas/public_safety_gov/drone_program">public-safety drone programs</a> · <a href="https://www.faa.gov/uas/public_safety_gov/public_safety_toolkit">Public Safety Toolkit</a> · <a href="https://www.faa.gov/uas/commercial_operators/part_107_waivers">Part 107 waivers</a> · <a href="https://www.faa.gov/uas/advanced_operations/part_91_waivers">Part 91 waivers</a>
-- Local capability: <a href="https://www.pueblosheriff.com/245/Patrol-Services-Division">Sheriff's S.O.A.R.R.</a> · <a href="https://www.pueblo.us/2435/UAV-Unit">City UAV unit</a> · <a href="https://www.koaa.com/news/covering-colorado/pueblo-sheriffs-office-introduces-aerial-response-and-rescue-team">KOAA on S.O.A.R.R.</a>
+- Part 107 rules: <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.31">107.31 VLOS</a> · <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.51">107.51 limits</a> · <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.29">107.29 night</a> · <a href="https://www.faa.gov/uas/getting_started/remote_id">Remote ID</a> · <a href="https://www.faa.gov/uas/commercial_operators/part_107_waivers/waivers_issued">issued waivers</a>
+- Local capability: <a href="https://www.pueblosheriff.com/245/Patrol-Services-Division">Sheriff's S.O.A.R.R.</a> · <a href="https://www.pueblosheriff.com/Archive.aspx?ADID=5493">2024 accountability report</a> · <a href="https://www.pueblo.us/2435/UAV-Unit">City UAV unit</a> · <a href="https://www.koaa.com/news/covering-colorado/pueblo-sheriffs-office-introduces-aerial-response-and-rescue-team">KOAA on S.O.A.R.R.</a>
 - Aircraft: <a href="https://skyfront.com/perimeter-8">Skyfront Perimeter 8</a> · <a href="https://harrisaerial.com/carrier-drones/carrier-h6-hybrid/">Harris Carrier H6 Hybrid</a> · <a href="https://www.pdw.ai/products/c100-public-safety">PDW C100</a> · <a href="https://www.inspiredflight.com/if800">Inspired Flight IF800</a> · <a href="https://docs.gremsy.com/payloads/vio/general">Gremsy VIO F1</a>
 
 All checked 2026-08-23; the full register with every link is in the report.
 
 ## Change log
 
+- **2026-08-24**: revised around the scaled-down low-altitude plan (report-vlos.md): VLOS Part 107 first, the long-endurance county aircraft and BVLOS moved to the later phase.
 - **2026-08-24**: site published from the research report of 2026-08-23.
 
 <!-- agent-only -->

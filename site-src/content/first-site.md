@@ -12,6 +12,12 @@ A well-secured storage facility in Pueblo West is the proposed first demonstrati
 
 Storage facilities in general suit the host role: controlled perimeters, power, communications, open internal lanes, distributed locations, and a direct security incentive. [[proposal]]
 
+## The site and its airspace
+
+The property is approximately 4.5 acres: large enough to demonstrate useful patrol behavior, small enough to keep the flight tightly bounded. [[verified]] Under the current published configuration it sits in uncontrolled Class G airspace at the surface, roughly 11 nautical miles from Pueblo Memorial Airport's Class D area, so routine low patrols need no ATC permission; a small private-use, non-towered airport about two nautical miles away requires vigilance and yielding, not permission. [[verified]] Exact coordinates and identifying links are withheld with the facility's name; the full airspace analysis publishes when the site is named. The drive-up layout and open lanes can support a low patrol route, and the 24/7 tenant access creates a genuine after-hours security use case. [[verified]]
+
+Sources: the low-altitude report, section 4 · <a href="../report-vlos.md">report-vlos.md</a> · checked 2026-08-23
+
 ## What the site would need to add
 
 - a level, marked landing pad with obstruction clearance; [[proposal]]
@@ -24,6 +30,10 @@ Storage facilities in general suit the host role: controlled perimeters, power, 
 - safe access for inspection, refueling, maintenance, and recovery. [[proposal]]
 
 Automatic robotic recharging is not required for a first pilot; a prepared landing area with human battery service or refueling between missions is enough. [[proposal]]
+
+## The engineering questions that come before any purchase
+
+Phase 1 is site engineering, and the aircraft is chosen only after it: an accurate property map; measured rooflines, poles, wires, lights, signs, and trees; the best pilot observation position, and whether one position can see the whole desired route; one launch and recovery area; a route in continuous view; a low geofence and altitude ceiling; documentation of the nearby airport's traffic; and network coverage tests. [[proposal]]
 
 ## What is being asked of the owner
 

@@ -6,7 +6,11 @@ eyebrow: No funds awarded
 ---
 # Funding plan
 
-## Primary target: COPS CPD Microgrants, next viable cycle
+## The first pilot may need no federal grant at all
+
+The revised plan's first aircraft is modest, and its costs (aircraft, training two facility pilots, a simple dock or enclosure, lighting) are far below the original concept's. How they are split between the facility, local supporters, and any small grant is an open question, and no arrangement exists. [[open]] The federal grant strategy below now belongs mainly to the later, county-operated phase. [[proposal]]
+
+## For the later phase: COPS CPD Microgrants, next viable cycle
 
 The U.S. Department of Justice COPS Office's CPD Microgrants program has a dedicated Unmanned Aerial Systems subcategory that names search and rescue, pursuit operations, barricaded subjects, digital evidence, and wellness checks as uses, and gives priority consideration to projects with a comprehensive evaluation component. [[verified]]
 

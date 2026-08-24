@@ -1,9 +1,10 @@
 # Pueblo drone pilot
-> A public options website for a PROPOSED Pueblo County public-safety drone
-> pilot: local businesses would host secure launch sites, and county
-> public-safety personnel would operate a long-endurance thermal drone from
-> them for searches, fire and disaster response, crimes in progress, and
-> officer safety. Nothing is approved: no agency commitment, no vendor
+> A public options website for a PROPOSED public-safety drone pilot in
+> Pueblo West: a host business would keep a capable, modestly priced drone
+> charged and ready; a qualified person on site flies low, geofenced patrols
+> under ordinary Part 107 in visual line of sight (legal today, no waiver);
+> qualified responders can fly it on scene; and remote county launch under a
+> BVLOS waiver is a later phase, pursued only if the pilot proves value. Nothing is approved: no agency commitment, no vendor
 > selected, no funds awarded, and the prospective first host (a well-secured
 > storage facility in Pueblo West, deliberately unnamed) has not agreed.
 > Author: Denson Smith, volunteer researcher.
@@ -34,12 +35,12 @@ full_site.txt carries every mirror concatenated in one fetch.
 ## Start here
 - [Assistant start page](https://pueblo-drone-pilot.stoagen.com/start.md): the one-URL front door.
 - [Home](https://pueblo-drone-pilot.stoagen.com/index.md): the concept, who does what, how a launch would happen, where this stands.
-- [Why Pueblo](https://pueblo-drone-pilot.stoagen.com/why-pueblo/index.md): existing Sheriff and City capability; what a pre-positioned aircraft adds; the host-network concept.
+- [Why Pueblo](https://pueblo-drone-pilot.stoagen.com/why-pueblo/index.md): S.O.A.R.R.'s 2024 numbers, the City's 2026 BVLOS waiver, three layers of drones, the host-network concept.
 - [The partnership](https://pueblo-drone-pilot.stoagen.com/partnership/index.md): county operates, host provides the place; the three-stream camera design; the volunteer's non-role.
 - [First site](https://pueblo-drone-pilot.stoagen.com/first-site/index.md): the unnamed storage facility, what it has, what it would need, what its owner is being asked.
-- [Aircraft](https://pueblo-drone-pilot.stoagen.com/aircraft/index.md): four candidates with figures, prices, and unresolved questions; future benchmarks collapsed.
+- [Aircraft](https://pueblo-drone-pilot.stoagen.com/aircraft/index.md): the modest first aircraft's criteria (none short-listed yet), and the long-endurance county candidates as the later phase's reference set.
 - [Funding](https://pueblo-drone-pilot.stoagen.com/funding/index.md): COPS Microgrants next cycle as primary target; the $195,000 working budget; no funds awarded.
-- [FAA and operations](https://pueblo-drone-pilot.stoagen.com/faa/index.md): Part 107 versus public-aircraft COA; what the 200-foot BVLOS framework means.
+- [FAA and operations](https://pueblo-drone-pilot.stoagen.com/faa/index.md): what ordinary Part 107 already allows (VLOS, low altitude, automation, night, this site's Class G airspace); the waiver table; the local BVLOS model.
 - [Privacy](https://pueblo-drone-pilot.stoagen.com/privacy/index.md): the proposed commitments, the rules behind them, how the program would be measured.
 - [Timeline](https://pueblo-drone-pilot.stoagen.com/timeline/index.md): the decided sequence (vendors last) and the risk table.
 - [Sources](https://pueblo-drone-pilot.stoagen.com/sources/index.md): every source, the claim-state legend, the change log.
@@ -47,6 +48,7 @@ full_site.txt carries every mirror concatenated in one fetch.
 
 ## Optional
 - [Full corpus](https://pueblo-drone-pilot.stoagen.com/full_site.txt): every mirror in one file (alias of llms-full.txt).
-- [The research report](https://pueblo-drone-pilot.stoagen.com/report.md): the canonical source behind every page, with the complete source register.
+- [The current plan](https://pueblo-drone-pilot.stoagen.com/report-vlos.md): the low-altitude VLOS pilot report; governs where the two reports differ.
+- [The original concept study](https://pueblo-drone-pilot.stoagen.com/report.md): the long-endurance county aircraft and grant analysis; the later phase's reference.
 - [Feed](https://pueblo-drone-pilot.stoagen.com/feed.xml): pages by last update.
 - [Stoagen](https://stoagen.com/llms.txt): the system this site is published with.

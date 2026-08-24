@@ -8,16 +8,20 @@ eyebrow: The case for a local pilot
 
 ## Pueblo already flies
 
-The Pueblo County Sheriff's Office describes its Sheriff's Office Aerial Response & Rescue (S.O.A.R.R.) program as deploying drones for missing persons, natural disasters, tactical response, and scene documentation. [[verified]] Local coverage reports that federal money helped establish the team and that its aircraft were shared with other southern Colorado counties. [[verified]] The City of Pueblo has a UAV unit with Part 107-certified personnel and has announced a Drone as First Responder program with a Real Time Crime Center investment. [[verified]]
+The Pueblo County Sheriff's Office describes its Sheriff's Office Aerial Response & Rescue (S.O.A.R.R.) program as deploying drones for missing persons, natural disasters, tactical response, and scene documentation, and its 2024 accountability report says the team operated a fleet of 13 UAVs, responded to 32 callouts, completed 110 flights, and logged more than 14 flight hours. [[verified]] Local coverage reports that federal money helped establish the team and that its aircraft were shared with other southern Colorado counties. [[verified]] The FAA's public waiver list also shows a Pueblo Police Department beyond-visual-line-of-sight waiver issued August 4, 2026, proof that the authority the future remote phase would need is being granted locally now. [[verified]] The City of Pueblo has a UAV unit with Part 107-certified personnel and has announced a Drone as First Responder program with a Real Time Crime Center investment. [[verified]]
 
 The pitch is therefore not that Pueblo needs to discover drones. It is that Pueblo can extend existing public-safety aviation with a longer-endurance, pre-positioned, county-operated platform and a new public-private host-site model. [[proposal]]
 
-Sources: <a href="https://www.pueblosheriff.com/245/Patrol-Services-Division">pueblosheriff.com, Patrol Services / S.O.A.R.R.</a> · <a href="https://www.koaa.com/news/covering-colorado/pueblo-sheriffs-office-introduces-aerial-response-and-rescue-team">KOAA on S.O.A.R.R.</a> · <a href="https://www.pueblo.us/2435/UAV-Unit">pueblo.us, UAV unit</a> · <a href="https://www.koaa.com/news/local-news/pueblo-police-department-launching-new-program-to-help-with-emergencies">KOAA on the City program</a> · checked 2026-08-23
+Sources: <a href="https://www.pueblosheriff.com/245/Patrol-Services-Division">pueblosheriff.com, Patrol Services / S.O.A.R.R.</a> · <a href="https://www.pueblosheriff.com/Archive.aspx?ADID=5493">2024 accountability report</a> · <a href="https://www.faa.gov/uas/commercial_operators/part_107_waivers/waivers_issued">FAA issued waivers</a> · <a href="https://www.koaa.com/news/covering-colorado/pueblo-sheriffs-office-introduces-aerial-response-and-rescue-team">KOAA on S.O.A.R.R.</a> · <a href="https://www.pueblo.us/2435/UAV-Unit">pueblo.us, UAV unit</a> · <a href="https://www.koaa.com/news/local-news/pueblo-police-department-launching-new-program-to-help-with-emergencies">KOAA on the City program</a> · checked 2026-08-23
+
+## Three layers, not one aircraft
+
+The revised plan sees three complementary layers: small drones carried by individual responders; more capable drones pre-positioned at cooperative host facilities, always charged, with known launch areas and better thermal and zoom payloads than every patrol car can carry; and, potentially, one or more long-endurance county aircraft for missions that genuinely need range. The hosted layer is the one this pilot tests, cheaply. [[proposal]]
 
 ## What a pre-positioned aircraft adds
 
 - **Time.** An aircraft already assembled at a protected site, launched by a remote public-safety operator, can be overhead while responders are still driving. [[proposal]]
-- **Endurance.** The candidate hybrid aircraft list two hours or more with a working camera payload, against roughly forty minutes for typical battery aircraft. Manufacturer numbers are not guaranteed field performance. [[verified]]
+- **Readiness.** Always charged, protected from vehicle heat and daily handling, no unpacking, a known obstacle map and geofence, and integration with the site's alarms and cameras. [[proposal]]
 - **Coverage.** A large county with wildland fire, missing-person, hazardous-material, and disaster-assessment needs benefits from an aircraft that can travel, observe, and return without a battery swap. [[proposal]]
 - **A repeatable model.** If one hosted site works, the same equipment, policies, training, and software make each additional site cheaper. [[proposal]]
 

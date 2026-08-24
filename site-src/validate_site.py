@@ -23,7 +23,8 @@ DOMAIN = f"https://{HOST}"
 PASTE_NEEDLE = "full_site.txt</textarea>"
 
 # The prospective host and its owner are unnamed at this stage, everywhere.
-DENYLIST = ("Hidden Gems", "hiddengems", "Spaulding", "Charlie")
+DENYLIST = ("Hidden Gems", "hiddengems", "Spaulding", "Charlie", "87HC", "7CO8",
+            "38.32895", "104.72931", "West Pueblo Airport", "gsacorp", "prbd.com")
 
 # Claims this proposal never makes; if a page appears to make one, fail.
 FORBIDDEN_CLAIMS = ("facial recognition is", "autonomous launch", "autonomously launch",
@@ -319,6 +320,14 @@ def main() -> None:
     full = PUBLIC / "full_site.txt"
     if not full.exists() or full.read_bytes() != (PUBLIC / "llms-full.txt").read_bytes():
         fail(errors, "full_site.txt missing or differs from llms-full.txt")
+
+    vlos = PUBLIC / "report-vlos.md"
+    if not vlos.exists():
+        fail(errors, "report-vlos.md missing")
+    else:
+        vtwin = PUBLIC / "report-vlos.md.txt"
+        if not vtwin.exists() or vtwin.read_bytes() != vlos.read_bytes():
+            fail(errors, "report-vlos.md.txt missing or differs from report-vlos.md")
 
     report = PUBLIC / "report.md"
     if not report.exists():

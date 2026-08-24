@@ -345,7 +345,7 @@ def write_page(page: Page) -> None:
 
 
 def write_sitemap(pages: list[Page]) -> None:
-    urls: list[str] = [DOMAIN + "/start.md", DOMAIN + "/report.md"]
+    urls: list[str] = [DOMAIN + "/start.md", DOMAIN + "/report.md", DOMAIN + "/report-vlos.md"]
     for page in pages:
         urls.append(page.canonical)
         urls.append(page.canonical + "index.md")
@@ -431,6 +431,9 @@ def main() -> None:
     report = (SOURCE / "report.md").read_text(encoding="utf-8")
     (PUBLIC / "report.md").write_text(report, encoding="utf-8", newline="\n")
     (PUBLIC / "report.md.txt").write_text(report, encoding="utf-8", newline="\n")
+    vlos = (SOURCE / "report-vlos.md").read_text(encoding="utf-8")
+    (PUBLIC / "report-vlos.md").write_text(vlos, encoding="utf-8", newline="\n")
+    (PUBLIC / "report-vlos.md.txt").write_text(vlos, encoding="utf-8", newline="\n")
     start = (SOURCE / "start.md").read_text(encoding="utf-8")
     (PUBLIC / "start.md").write_text(start, encoding="utf-8", newline="\n")
     (PUBLIC / "start.md.txt").write_text(start, encoding="utf-8", newline="\n")

@@ -1,24 +1,24 @@
 ---
 slug: timeline
 title: Timeline and risks
-description: Where the project stands (research), what comes next (host conversation, county working group, next grant cycle, FAA application, site construction, demonstration, measured pilot), and the risks already identified with their mitigations. Vendors are contacted only after the public partners agree on requirements.
+description: Where the project stands (research and this site), the six phases of the scaled-down pilot (site engineering, aircraft selection, pilot training, a flight-history record, public-safety participation, then the BVLOS decision), and the risks already identified with their mitigations.
 eyebrow: Sequence and risks
 ---
 # Timeline and risks
 
 ## The sequence
 
-The first action is not contacting drone vendors. [[proposal]] The decided order:
+The first action is not contacting drone vendors, and under the revised plan the aircraft is chosen only after the site is measured. [[proposal]] The order:
 
 <ul class="pd-stepper">
 <li data-status="current"><span class="pd-stepper__dot" aria-hidden="true"></span><span class="pd-stepper__label">Turn the research into this public options website <span class="pd-stepper__tag">Current stage</span></span><span></span><span class="pd-stepper__line" aria-hidden="true"></span></li>
 <li data-status="notstarted"><span class="pd-stepper__dot" aria-hidden="true"></span><span class="pd-stepper__label">Host conversation: the facility owner reviews and corrects the concept <span class="pd-stepper__tag">Not started</span></span><span></span><span class="pd-stepper__line" aria-hidden="true"></span></li>
-<li data-status="notstarted"><span class="pd-stepper__dot" aria-hidden="true"></span><span class="pd-stepper__label">County working group: Sheriff's Office, emergency management, grant staff, commissioners <span class="pd-stepper__tag">Not started</span></span><span></span><span class="pd-stepper__line" aria-hidden="true"></span></li>
-<li data-status="notstarted"><span class="pd-stepper__dot" aria-hidden="true"></span><span class="pd-stepper__label">Jointly define the operational concept, aircraft weight pathway, privacy rules, site requirements, evaluation plan <span class="pd-stepper__tag">Not started</span></span><span></span><span class="pd-stepper__line" aria-hidden="true"></span></li>
-<li data-status="notstarted"><span class="pd-stepper__dot" aria-hidden="true"></span><span class="pd-stepper__label">Prepare the next viable grant application and FAA package <span class="pd-stepper__tag">Not started</span></span><span></span><span class="pd-stepper__line" aria-hidden="true"></span></li>
-<li data-status="notstarted"><span class="pd-stepper__dot" aria-hidden="true"></span><span class="pd-stepper__label">Only then: government quotes and demonstrations from short-listed vendors <span class="pd-stepper__tag">Not started</span></span><span></span><span class="pd-stepper__line" aria-hidden="true"></span></li>
-<li data-status="notstarted"><span class="pd-stepper__dot" aria-hidden="true"></span><span class="pd-stepper__label">Site construction, testing, public demonstration <span class="pd-stepper__tag">Not started</span></span><span></span><span class="pd-stepper__line" aria-hidden="true"></span></li>
-<li data-status="notstarted"><span class="pd-stepper__dot" aria-hidden="true"></span><span class="pd-stepper__label">Measured pilot with a published evaluation <span class="pd-stepper__tag">Not started</span></span></li>
+<li data-status="notstarted"><span class="pd-stepper__dot" aria-hidden="true"></span><span class="pd-stepper__label">Phase 1: site engineering (map, obstacles, sightlines, launch area, geofence) <span class="pd-stepper__tag">Not started</span></span><span></span><span class="pd-stepper__line" aria-hidden="true"></span></li>
+<li data-status="notstarted"><span class="pd-stepper__dot" aria-hidden="true"></span><span class="pd-stepper__label">Phase 2: aircraft and software selection, from the facility mission <span class="pd-stepper__tag">Not started</span></span><span></span><span class="pd-stepper__line" aria-hidden="true"></span></li>
+<li data-status="notstarted"><span class="pd-stepper__dot" aria-hidden="true"></span><span class="pd-stepper__label">Phase 3: train at least two facility pilots (Part 107 plus site training) <span class="pd-stepper__tag">Not started</span></span><span></span><span class="pd-stepper__line" aria-hidden="true"></span></li>
+<li data-status="notstarted"><span class="pd-stepper__dot" aria-hidden="true"></span><span class="pd-stepper__label">Phase 4: repeated low-risk patrols; build the flight-history record <span class="pd-stepper__tag">Not started</span></span><span></span><span class="pd-stepper__line" aria-hidden="true"></span></li>
+<li data-status="notstarted"><span class="pd-stepper__dot" aria-hidden="true"></span><span class="pd-stepper__label">Phase 5: invite county, fire, and emergency-management participation <span class="pd-stepper__tag">Not started</span></span><span></span><span class="pd-stepper__line" aria-hidden="true"></span></li>
+<li data-status="notstarted"><span class="pd-stepper__dot" aria-hidden="true"></span><span class="pd-stepper__label">Phase 6: decide whether remote-launch (BVLOS) authority is worth the FAA work <span class="pd-stepper__tag">Not started</span></span></li>
 </ul>
 
 ## Risks already identified

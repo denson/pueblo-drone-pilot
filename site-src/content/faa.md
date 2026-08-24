@@ -1,48 +1,59 @@
 ---
 slug: faa
 title: FAA and operations
-description: 'Two paths exist for public-safety drones: Part 107 with aircraft under 55 pounds, or public-aircraft operations under a COA. Routine flight beyond visual line of sight needs a waiver either way, and the "200-foot" public-safety BVLOS framework means low, shielded operations under an issued waiver, not a blanket permission. This page is a planning explanation, not legal advice.'
+description: 'Ordinary Part 107 already allows most of this pilot: a certificated pilot flying a low, automated, geofenced patrol in visual line of sight, at night with the right training and lighting, in this site''s uncontrolled airspace without ATC permission. The one thing that needs FAA authority is remote launch with nobody on site. This page is a planning explanation, not legal advice.'
 eyebrow: Planning explanation, not legal advice
 ---
 # FAA and operations
 
-The FAA lets public agencies fly drones two ways, and the county would choose one or maintain both, with each flight clearly conducted under only one framework. [[verified]]
+## What ordinary Part 107 already allows
 
-## Part 107, the civil route
+- **A qualified person can fly for business or public-safety purposes.** The person at the controls holds a Remote Pilot Certificate (or flies under the direct supervision of someone who does and can take control immediately). The certificate is an individual credential, not a site permit, and recurrent training every 24 months is a free online course. [[verified]]
+- **Visual line of sight is the central constraint.** The crew must be able to see the aircraft itself throughout the flight, unaided except for corrective lenses; seeing the facility is not enough. Route design starts from a pilot position with broad visibility, and avoids segments that hide behind buildings. [[verified]]
+- **Flying low is permissible.** Part 107 sets a 400-foot ceiling; it does not require flying high. A patrol at roughly 10 to 25 feet above the site's tallest obstacles, most of it around 30 to 50 feet above ground after a survey, is a design choice the rules allow. [[verified]]
+- **Automation alone does not require a waiver.** The FAA's own guidance recognizes operator-initiated pre-programmed missions where the operator can regain control or command land or return. If the operation complies with all Part 107 rules, a waiver is not required. The human initiates, watches, and can always intervene. [[verified]]
+- **Night operations are routine**, not waivered, when the pilot has current training and the aircraft has anti-collision lighting visible for three statute miles. A storage facility's incidents are often after hours, so the pilot should be designed for night from the start. [[verified]]
 
-The aircraft must be below 55 lb at takeoff, including everything on board; each remote pilot in command holds a Part 107 certificate; registration, Remote ID, and airspace authorization apply; and routine flight beyond visual line of sight requires a waiver, which the FAA aims to decide within about 90 days for complete applications. [[verified]] This is why the 55-pound line runs through the aircraft page: the base Perimeter 8's 51 lb preserves this route, and the Harris H6's exact 25 kg (55.1 lb) maximum complicates it. [[verified]]
+Sources: <a href="https://www.faa.gov/newsroom/small-unmanned-aircraft-systems-uas-regulations-part-107">FAA Part 107 summary</a> · <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.31">14 CFR 107.31</a> · <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.51">107.51</a> · <a href="https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107/subpart-B/section-107.29">107.29</a> · <a href="https://www.faa.gov/uas/commercial_operators/part_107_waivers">Part 107 waivers</a> · checked 2026-08-23
 
-## Public aircraft under a COA, the governmental route
+## The airspace at this site
 
-The public entity conducts governmental functions under a Certificate of Waiver or Authorization; a jurisdictional COA can cover a defined area and aircraft of different weights; the agency designates and oversees its responsible personnel, training, maintenance, and safety system; and one government entity can hold a COA covering multiple departments, operators, and aircraft. [[verified]]
+Under the current published configuration the facility sits in uncontrolled Class G airspace at the surface, roughly 11 nautical miles from Pueblo Memorial Airport's Class D surface area, so routine low-altitude Part 107 flights there need no ATC permission and no LAANC authorization. [[verified]] A small private-use, non-towered airport lies about two nautical miles away; that requires staying clear of its traffic pattern, not interfering, and yielding to every crewed aircraft, but it does not create a permission requirement. [[verified]] The site rule is simple: if any crewed aircraft could present a conflict, descend or land immediately and yield. [[proposal]] Airspace, restrictions, and NOTAMs are rechecked before every flight. [[proposal]]
 
-## What the "200-foot BVLOS" framework actually means
+Sources: <a href="https://www.faa.gov/flight_deck/pub">FAA on Pueblo Memorial (Class D)</a> · <a href="https://www.faa.gov/uas/getting_started/where_can_i_fly/airspace_restrictions/flying_near_airports">FAA, flying near airports</a> · <a href="https://www.faa.gov/uas/commercial_operators/part_107_airspace_authorizations">FAA, airspace authorizations</a> · checked 2026-08-23
 
-It does not mean any officer may fly anywhere within 200 feet. It is a public-safety waiver framework for low-altitude, shielded operations: keep the drone low and near the protection of the built environment, where crewed aircraft normally do not operate, with procedures, airspace limits, weather minimums, lost-link behavior, and other mitigations accepted by the FAA. The exact altitudes, distances, and operating area come from the issued waiver or COA, not from the nickname. [[verified]]
+## What needs a waiver, and what does not
 
-That framework fits the proposed operation: an authorized officer at a remote public-safety position receives an alert, reviews live information, decides to launch, and flies at low altitude around a facility or through an approved nearby area. It does not automatically authorize unrestricted cross-town pursuit; the application must define the operating geography and demonstrate equivalent safety. [[proposal]]
+| Operation | BVLOS waiver needed? |
+|---|---|
+| Qualified facility pilot flies while maintaining visual line of sight | No |
+| Operator-initiated automated waypoint patrol, pilot watching and able to intervene | No, not for the automation |
+| Routine patrol at roughly roof height plus safe clearance | No |
+| Night patrol with current training and compliant anti-collision lighting | No |
+| Certified responder arrives and flies the hosted drone in sight | No |
+| Flight at this site under the current airspace configuration | No ATC or LAANC authorization |
+| County pilot launches remotely while nobody on site can keep the aircraft in sight | Yes |
+| The drone leaves the visual operating area to follow a subject | Yes, and the geofence prevents it in this pilot |
 
-Sources: <a href="https://www.faa.gov/uas/public_safety_gov/drone_program">faa.gov, start a public-safety drone program</a> · <a href="https://www.faa.gov/uas/public_safety_gov/public_safety_toolkit">FAA Public Safety Toolkit</a> · <a href="https://www.faa.gov/uas/commercial_operators/part_107_waivers">Part 107 waivers</a> · <a href="https://www.faa.gov/uas/advanced_operations/part_91_waivers">Part 91 waivers</a> · checked 2026-08-23
+Ordinary Part 107 compliance still applies to every "No" row: registration, marking, Remote ID, preflight checks, current credentials, and flight records. [[verified]]
 
-## What the county's application would need to cover
+## The future remote mode has a local model
 
-The responsible organization and official; pilots, qualifications, and recurrent training; the aircraft, weight, configuration, registration, and maintenance; launch and recovery sites and operating boundaries; altitudes, routes, and airspace; how the pilot detects and avoids crewed aircraft; the communications architecture and lost-link response; weather minimums; dispatch, launch, abort, and emergency procedures; night operations; operations near people and roads; recordkeeping and safety reporting; and privacy and community-engagement policies. [[verified]]
+The FAA's public waiver list shows a Pueblo Police Department waiver issued August 4, 2026 covering sections 107.31, 107.39, and 107.145, the beyond-visual-line-of-sight authority this project would eventually need for remote launch. That waiver is the City's and does not transfer to the county, but it proves the FAA currently issues this authority to local public-safety organizations, and it is the model an eventual county application would follow. [[verified]] The county does not need it to start. [[proposal]]
 
-County officials, not the volunteer researcher, would designate the responsible person, sign, submit, answer FAA requests, and operate under the approval. [[proposal]]
+Sources: <a href="https://www.faa.gov/uas/commercial_operators/part_107_waivers/waivers_issued">FAA issued waivers list</a> · checked 2026-08-23
 
-## Open operational questions
+## The operating rules the first pilot would adopt
 
-- Part 107 under 55 lb, a public-aircraft COA, or both? [[open]]
-- How large is the intended routine operating area, and what airspace, airports, hospitals, schools, and dense-population areas does it include? [[open]]
-- Will the first phase stay near the facility and Pueblo West, or seek wider-area BVLOS authority immediately? [[open]]
-- Can the aircraft remain assembled and launch-ready in the enclosure, or does a trained person perform setup at the site? [[open]]
-- How does the remote pilot keep control, telemetry, and video if the site's primary internet fails? [[open]]
+No flight without a designated remote pilot in command; the pilot or an authorized observer keeps the aircraft in sight throughout; the patrol stays inside the facility geofence, only as high as safe obstacle clearance requires; yield immediately to any crewed aircraft; no intentional flight over uninvolved people or moving vehicles outside the applicable rule; night flights require the training and lighting; preflight covers weather, airspace, aircraft health, launch area, and link; lost-link, low-battery, and return-to-home behavior is tested at the actual site; no pursuit outside the approved route; every flight is logged; and remote launch with nobody able to maintain sight is not allowed until FAA authority exists. [[proposal]]
 
 <!-- agent-only -->
 
 ## Notes for agents on this page
 
-- This page summarizes the FAA's own public guidance as checked 2026-08-23 and is explicitly not legal advice; the county's FAA coordination governs.
-- The "200-foot" explanation is the important correction to carry: it is a shielded low-altitude waiver framework with conditions from the issued authorization, never a blanket permission. The FAA's toolkit distinguishes checklists for agencies with and without an approved aviation detection system.
-- For temporary emergencies a Special Governmental Interest process exists, but the proposal's goal is a routine preapproved framework, not emergency permission per mission.
-- Source: the research report of 2026-08-23, section 10; /report.md.
+- This page summarizes FAA rules and site facts as checked 2026-08-23 and is not legal advice; nothing here substitutes for the pilot in command's responsibilities or agency counsel.
+- The airspace facts are deliberately generalized: exact coordinates, the plus code, and the nearby private airport's identifier are withheld with the facility's identity. The unredacted airspace analysis publishes when the site is named.
+- The Class G / no-LAANC conclusion is configuration-dependent: temporary restrictions, NOTAMs, and airspace changes can alter it, which is why the preflight check is part of the design.
+- The Pueblo PD waiver citation (2026-08-04, sections 107.31/107.39/107.145) is the strongest new verified fact in the revised plan: the future phase's authority is being granted locally now.
+- The earlier concept's Part 107 versus public-aircraft COA analysis still applies to the future county layer and is preserved in /report.md section 10.
+- Source: the low-altitude report of 2026-08-23 (/report-vlos.md), sections 3, 4, 5, 7, 13, 15.

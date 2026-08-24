@@ -1,12 +1,18 @@
 ---
 slug: aircraft
 title: Aircraft options
-description: Four U.S.-made candidates, two of them long-endurance hybrids. Manufacturer numbers are not guaranteed field performance, endurance changes with payload, heat, altitude and wind, and every configuration's Blue-list status must be reverified on the procurement date. No aircraft has been selected.
+description: The first aircraft is modest, selected for the facility mission after the site survey, and deliberately not yet short-listed. The four long-endurance candidates from the original concept remain the reference set for the later county phase. No aircraft has been selected.
 eyebrow: Candidates for discussion, not a selection
 ---
 # Aircraft options
 
-Chinese-made aircraft are excluded. The procurement filter is the current DCMA Blue List and the particular grant's wording, not a vendor's general "NDAA compliant" statement. [[verified]] Manufacturer numbers are not guaranteed field performance: endurance changes with payload, fuel, temperature, altitude, wind, maintenance, and reserves, and Pueblo West's elevation and summer heat make local demonstration testing important. [[verified]]
+## The first aircraft is modest, and chosen last
+
+The revised plan starts with a relatively inexpensive, capable drone selected for the facility mission, not for county-wide range, and selected only after the site engineering answers the questions on the [first-site page](../first-site/). [[proposal]] Its priorities: a thermal camera if financially practical, useful optical zoom, good low-light performance, stable automated waypoint flight, reliable geofencing, return and land controls, wind tolerance appropriate to Pueblo West, Remote ID compliance, simple battery logistics, secure user accounts, and exportable flight logs and video. [[proposal]] No model has been short-listed, and this page deliberately names none until the site survey exists. [[open]]
+
+## The long-endurance county layer, for the later phase
+
+The aircraft below were the original concept's candidates and remain the reference set for the future remote-launch phase, if the VLOS pilot proves the concept and the county pursues it. Chinese-made aircraft are excluded. The procurement filter is the current DCMA Blue List and the particular grant's wording, not a vendor's general "NDAA compliant" statement. [[verified]] Manufacturer numbers are not guaranteed field performance: endurance changes with payload, fuel, temperature, altitude, wind, maintenance, and reserves, and Pueblo West's elevation and summer heat make local demonstration testing important. [[verified]]
 
 Sources: <a href="https://bluelist.dcma.mil/">DCMA Blue List portal</a> · <a href="https://bja.ojp.gov/funding/uas">BJA UAS funding requirements</a> · checked 2026-08-23
 
