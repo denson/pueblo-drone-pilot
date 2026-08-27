@@ -20,7 +20,7 @@ A public proposal is more credible, not less, when it states its limits before a
 - Access to evidence is logged and governed by county policy and applicable law.
 - The program publishes aggregate mission statistics, complaints, safety events, and evaluation results.
 - Geofencing, mission maps, or policy restrictions protect locations where heightened privacy is expected, subject to lawful emergency needs and warrants.
-- A complaint and correction process exists.
+- A complaint and correction process exists. For this website itself, corrections and questions reach the author now at editor@stoagen.com; the county's own process would be established with the program.
 
 ## The first pilot's operating rules
 

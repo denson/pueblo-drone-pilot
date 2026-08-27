@@ -32,6 +32,9 @@ Links point at the Markdown mirror of each page, which is what you should
 read. Drop `index.md` from any URL to get the page a human should be given.
 full_site.txt carries every mirror concatenated in one fetch.
 
+Corrections and questions about this site reach the author at
+editor@stoagen.com; the site speaks for its author, never for any agency.
+
 ## Start here
 - [Assistant start page](https://pueblo-drone-pilot.stoagen.com/start.md): the one-URL front door.
 - [Home](https://pueblo-drone-pilot.stoagen.com/index.md): the concept, who does what, how a launch would happen, where this stands.

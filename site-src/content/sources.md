@@ -32,6 +32,10 @@ Everything on this site carries one of four states, shown as a labeled chip: [[v
 
 All checked 2026-08-23, and every link above rechecked 2026-08-24; the full register is in the reports. Two vendor pages (Shield AI, Harris support) refuse automated requests but open normally in a browser, and one (the VXE30 manufacturer page) no longer resolves at the address the report recorded. [[verified]]
 
+## Corrections
+
+This site is maintained by its author, not by any agency. If something here is wrong or out of date, email editor@stoagen.com; corrections are folded in and dated, and each page's revision history shows the change.
+
 ## Change log
 
 - **2026-08-24**: revised around the scaled-down low-altitude plan (report-vlos.md): VLOS Part 107 first, the long-endurance county aircraft and BVLOS moved to the later phase.
